@@ -8,7 +8,7 @@ const values = ref({
     { a: 1 }
   ]
 })
-
+console.log('test3')
 const values2 = computed(() => {
   /**
    * add 
